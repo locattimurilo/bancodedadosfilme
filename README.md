@@ -2,7 +2,7 @@
 
 <h1>📦 Projeto da faculdade: Integração CSV → Python → MySQL</h1>
 
-<p>Automatizando a importação de dados para banco MySQL usando Python</p>
+<p>Automatizando a importação de dados para banco MySQL usando Python para a matéria de Banco de Dados do Professor Felipe</p>
 
 </div>
 
